@@ -1,0 +1,16 @@
+body{
+    background-color: #131313;
+}
+img{
+    width: 980px;
+    height: 658px;
+    margin: 2px solid #333;
+}
+#container-login h1{
+    color: whitesmoke;
+}
+#char{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
